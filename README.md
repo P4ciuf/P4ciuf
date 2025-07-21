@@ -8,8 +8,7 @@ const developer = {
   name: "P4ciuf",
   location: "Italy",
   role: "Full Stack Developer",
-  focus: ["Web Development", "Mobile Development"],
-  currentlyLearning: "AI Integration & Cloud Architecture",
+  focus: "Web Development",
   philosophy: "Code with purpose, learn with passion"
 };
 ```
