@@ -11,7 +11,7 @@ const developer = {
   name: "P4ciuf",
   location: "Italy",
   role: "Full Stack Developer",
-  focus: ["Web Development", "Mobile Apps", "System Architecture"],
+  focus: ["Web Development", ""],
   currentlyLearning: "AI Integration & Cloud Architecture",
   philosophy: "Code with purpose, learn with passion"
 };
@@ -30,8 +30,6 @@ const developer = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ## Current Focus
@@ -44,7 +42,7 @@ const developer = {
 ## Connect
 
 - **Email**: p4ciuf@email.com
-<!-- - **Portfolio**: p4ciuf.dev -->
+- **Portfolio**: [P4ciuf-Portfolio](https://p4ciuf.netlify.app/)
 - **Discord**: [TechTribe Studio](https://discord.gg/Z4cjcrGX8K)
 
 ---
