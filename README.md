@@ -55,7 +55,6 @@ const developer = {
 ## Current Focus
 - 🚀 Mastering Next.js 14+
 - 🐳 Container orchestration with Docker
-- 🤖 Building Discord bots with Discord.js
 - 🌟 Open source contributions
 ## Connect
 - **Email**: p4ciuf@email.com
