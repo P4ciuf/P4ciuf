@@ -1,5 +1,5 @@
 # P4ciuf
-**Full Stack Developer from Italy 🇮🇹**
+**Full Stack Developer from Italy**<br>
 Building scalable web applications with clean code and modern technologies.
 ## About
 ```javascript
