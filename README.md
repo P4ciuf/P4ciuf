@@ -4,7 +4,7 @@ Building scalable web applications with clean code and modern technologies.
 ## About
 ```javascript
 const developer = {
-  name: "P4ciuf",
+  name: "Angelo",
   location: "Italy",
   role: "Full Stack Developer",
   focus: "Web Development",
