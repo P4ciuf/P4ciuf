@@ -33,7 +33,8 @@ const developer = {
 ### ⚙️ Backend
 **Runtime & Framework**  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)<br>
-![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)<br>
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
 
 ---
 
