@@ -26,9 +26,6 @@ const developer = {
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)<br>
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)<br>
 
-**Tooling**  
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
 ---
 
 ### ⚙️ Backend
@@ -69,22 +66,10 @@ const developer = {
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)<br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
----
-
-### 🌐 Web & Data Formats
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)<br>
-![XML](https://img.shields.io/badge/XML-FF6600?style=flat-square&logo=xml&logoColor=white)<br>
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)<br>
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-
----
-
-### 🚀 Other Skills
-![SEO](https://img.shields.io/badge/SEO-4285F4?style=flat-square&logo=google&logoColor=white)
-
 ## Connect
 - **Email**: p4ciuf@email.com
 - **Portfolio**: [P4ciuf-Portfolio](https://p4ciuf.netlify.app/)
-- **Discord**: [TechTribe Studio](https://discord.gg/Z4cjcrGX8K)
+
 ---
+
 *"Simplicity is the ultimate sophistication"* - Leonardo da Vinci
